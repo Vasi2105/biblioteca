@@ -97,7 +97,6 @@ public class CartiDao {
 
                 cartiList.add(carti);
 
-
             }
         } catch (SQLException throwables) {
             throwables.printStackTrace();
